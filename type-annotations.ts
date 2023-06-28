@@ -2,6 +2,6 @@ let wins: number = 25;
 let teacher: string = "Bob";
 let isStudent: boolean = true;
 
-let favouriteColor = 'yellow'
+let favoriteColor = 'yellow'
 
-console.log("Favorite color:", favouriteColor);
+console.log("Favorite color:", favoriteColor);
